@@ -1,5 +1,13 @@
+Backend Production Code
+========================
+
+(or nearly so)
+
+ETL to spec (spec not shared)
+
+
 Requirements
-============
+------------
 
 Requires Python 2.7 for test discovery via
 `python -m unittest discover`
@@ -10,14 +18,14 @@ Currently will not run via Python3
 
 
 Usage
-=====
+-----
 
 To run main program
 `python entries.py`
 
 
 TODO
-====
+----
 
 * Document Unittests
 * Unicode-proof it
